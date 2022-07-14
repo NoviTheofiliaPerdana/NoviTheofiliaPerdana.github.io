@@ -4,12 +4,16 @@ body {
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #cdb4db;
 }
 
 #galery {
-  background-color: #e2edff;
+  background-color: #cdb4db;
 }
 section {
   padding-top: 5rem;
+}
+
+.footer-color {
+  background-color: #cdb4db;
 }
